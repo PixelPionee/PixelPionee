@@ -1,4 +1,4 @@
-Olá, sou um desenvolvedor web freelancer.
+Olá, sou um **desenvolvedor web freelancer**.
 Gosto de jogos, mangas, hqs, livros.
 Aprendendo tudo sobre o desenvolvimento web para eu construir meus projetos pessoais e trabalhos.
 Estou estudandando sobre: Html, Css, JavaScript, UX/UI e etc.
