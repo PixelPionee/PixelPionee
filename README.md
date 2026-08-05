@@ -1,7 +1,24 @@
-Olá, sou um **desenvolvedor web freelancer**.
-Gosto de jogos, mangas, hqs, livros.
-Aprendendo tudo sobre o desenvolvimento web para eu construir meus projetos pessoais e trabalhos.
-Estou estudandando sobre: Html, Css, JavaScript; e planejo estudar: UI e UX
-Sempre buscando o meu melhor, aprender mais, sempre estar atualizado.
-Gosto doque estou estudando/fazendo, fui apresentado a o desenvolvimento web por um amigo de familia.
-Em breve postarei meus projetos aqui para a comunidade avaliar e dar dicas.
+# Olá, eu sou o Caio 👋
+
+Estudante de **Ciência da Computação** e **Desenvolvedor Front-End / UI/UX Designer**. 
+Focado em criar interfaces web modernas, fluidas e de alta performance, unindo arquitetura de código limpa a um design funcional (*Clarity over Clutter*).
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
+- **Front-End:** React, Next.js, TypeScript, JavaScript (ES6+), HTML5, CSS3 / TailWind / Canvas API.
+- **UI/UX & Design:** Figma (Prototipagem de Alta Fidelidade, Design Systems, Game UI).
+- **Ferramentas & Outros:** Git, GitHub, DevTools 
+
+---
+
+### 🚀 O que estou construindo / Onde estou focando
+- 🎮 Projetos de **Game UI/UX** (Sistemas de Inventário, Árvores de Habilidades e HUDs interativos).
+- ⚡ Otimização de performance web e renderização a **60fps** com Canvas API.
+- 📐 Design Systems acessíveis e responsivos no Figma.
+
+---
+
+📫 **Vamos nos conectar?**
+- LinkedIn: [linkedin.com/in/caio-finisguerra-2a7856265](https://www.linkedin.com/in/caio-finisquerra-2a7856265/)
+- Email: caiofinis@gmail.com
